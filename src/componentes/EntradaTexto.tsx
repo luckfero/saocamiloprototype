@@ -1,4 +1,4 @@
-import { Input, FormControl } from "native-base";
+import { Input, FormControl} from "native-base";
 
 interface InputProps {
   label?: string;
