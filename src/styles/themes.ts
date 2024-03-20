@@ -23,7 +23,4 @@ export const TEMAS = extendTheme({
         white: '#fff',
         black: '#000'
     },
-    fontSizes: {
-        
-    }
 })
